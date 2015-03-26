@@ -1,2 +1,2 @@
 # GitTraining
-A repository to try our different Git commands
+A repository to try out different Git commands
